@@ -49,7 +49,7 @@ Instagram">
 </div>
 
 <div class="estudante-div">
-<img class="estudante-imagem" src="estudante_menino_1.png" alt="Foto da
+<img class="estudante-imagem" src="estudante_menino_2.png" alt="Foto da
 turma do 1CDS do ano de 2026">
 <h3 class="estudante-nome">Aluno 6</h3>
 <a href="https://cursos.alura.com.br/dashboard">
@@ -63,7 +63,7 @@ Facebook">
 </div>
 
 <div class="estudante-div">
-<img class="estudante-imagem" src="estudante_menino_2.png" alt="Foto da
+<img class="estudante-imagem" src="estudante_menino_3.png" alt="Foto da
 turma do 1CDS do ano de 2026">
 <h3 class="estudante-nome">Aluno 6</h3>
 <a href="https://cursos.alura.com.br/dashboard">
